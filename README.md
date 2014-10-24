@@ -13,18 +13,18 @@ The following applications must already be installed:
 
 A typical folder structure for a project would look like the following:
 
-ansible/
-    .. Contents of <http://github.com/simoncoulton/ansible>
-secure/
-    .. Secure files required for deployments (used by Ansible), should not be included in your repo.
-source/
-    app/
-    public/
-        css/
-        img/
-        js/
-vagrant/
-    .. Contents of this repo
+    ansible/
+        .. Contents of <http://github.com/simoncoulton/ansible>
+    secure/
+        .. Secure files required for deployments (used by Ansible), should not be included in your repo.
+    source/
+        app/
+        public/
+            css/
+            img/
+            js/
+    vagrant/
+        .. Contents of this repo
 
 ## Customizing the VM
 
