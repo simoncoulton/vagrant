@@ -40,7 +40,7 @@ These will be used for specific secure settings that you want to keep outside of
 
 3. Create the vagrant configuration
 
-This will replace the VMs webserver virtualhost configuration with one designed specifically for the VM. Examples can be seen in <http://github.com/simoncoulton/ansible> under `roles/vagrant/defaults/main.yml`. Create the relevant config in the vagrant.yml `group_var`.
+This will replace the VMs webserver virtualhost configuration with one designed specifically for the VM. Examples can be seen in <http://github.com/simoncoulton/ansible> under `roles/vagrant/defaults/main.yml`. Create the relevant config in the vagrant.yml *group_var*.
 
 ## Creating your first Vagrant box
 
